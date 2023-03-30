@@ -83,4 +83,4 @@ __약간의 시간지연이 보임__
 - 앞에 이동 평균과는 달리 가중치를 다르게 곱함으로써 오래된 데이터와 최신 데이터의 중요도를 조절할 수 있음.
 
 ## $$\bar x_{k} = A \bar x_{k-1} + (1-A)x_{k}$$
-![image](https://user-images.githubusercontent.com/107944370/228813232-34f328f2-27a6-4b01-ad3a-32698f1d6410.png)
+![image](https://user-images.githubusercontent.com/107944370/228813428-74ddea87-d203-4cbb-91bf-922e8079de8d.png)
