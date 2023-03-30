@@ -1,7 +1,7 @@
 # 일반적인 평균 구하기
-## $$\bar x = \bar x_{1} +\bar x_{2}+ \cdots + \bar x_{n} \over n $$
+## $$\bar x =  x_{1} + x_{2}+ \cdots + x_{n} \over n $$
 - 여기서, 새로운 값 $$\bar x_{n+1}$$을 추가해 평균을 구하려면 다시 1 부터 n+1까지 더하고 n+1로 나눠야하며, 1 부터 n까지의 데이터도 모두 메모리에 있어야하기 때문에 비효율적
 
 # 재귀적으로 평균 구하기
-## $$\bar x_{k-1} = \bar x_{1}+\bar x_{2}+ \cdots +\bar x_{k-1} \over k-1$$
-## $$\bar x_{k} = \bar x_{1}+\bar x_{2}+ \cdots +\bar x_{k} \over k$$
+## $$\bar x_{k-1} =  x_{1}+ x_{2}+ \cdots + x_{k-1} \over k-1$$
+## $$\bar x_{k} = x_{1}+ x_{2}+ \cdots +r x_{k} \over k$$
