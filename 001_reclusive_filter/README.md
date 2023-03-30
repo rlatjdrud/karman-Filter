@@ -19,6 +19,7 @@
 ### 3개의 데이터만 있으면 되기때문에 메모리에 효율을 높일 수 있다.
 
 ![image](https://user-images.githubusercontent.com/107944370/228788599-52e4399c-d0c3-4ec6-a246-f43d779d9977.png)
+<br>
 __평균값으로 잡음제거__
 
 <br>
