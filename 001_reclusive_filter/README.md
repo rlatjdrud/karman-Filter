@@ -84,3 +84,5 @@ __약간의 시간지연이 보임__
 
 ## $$\bar x_{k} = A \bar x_{k-1} + (1-A)x_{k}$$
 ![image](https://user-images.githubusercontent.com/107944370/228813831-3f7f8fbf-08e3-401b-baad-038b93008105.png)
+![image](https://user-images.githubusercontent.com/107944370/228815711-74bf21fa-7e05-4407-9ebc-7dbf1deb4ee8.png)
+
