@@ -86,7 +86,7 @@ __약간의 시간지연이 보임__
 ![image](https://user-images.githubusercontent.com/107944370/228813831-3f7f8fbf-08e3-401b-baad-038b93008105.png)
 ![image](https://user-images.githubusercontent.com/107944370/228815711-74bf21fa-7e05-4407-9ebc-7dbf1deb4ee8.png)
 <br>
-## __A가 0과 1 사이 값이므로 최신데이터인 값이 더욱 큰 가중치를 받고 옛날 데이터가 더 낮은 가중치를 받게된다.__
+## __A가 0과 1 사이 값이므로 최신데이터인 값이 더욱 큰 가중치를 받고 이전 추정치값이 더 낮은 가중치를 받게된다.__
   
 ### A = 0.7일때
 ![image](https://user-images.githubusercontent.com/107944370/228816238-0d17f3ab-3358-4c88-8bc8-ee5565066015.png)
