@@ -55,6 +55,7 @@ __동적인 특성 그대로 유지__
 <br>
 <br>
 <br>
+
 ## 이동평균의 한계
 ## $$\bar x_{k} = \frac{x_{k-n+1}+ x_{2}+ \cdots + x_{k}}{n} = \frac{1}{n} x_{k-n+1} + \frac{1}{n}x_{k-n+2}+\cdots+ \frac{1}{n}x_{k}$$ 
 
