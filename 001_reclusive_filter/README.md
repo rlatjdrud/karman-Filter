@@ -52,7 +52,7 @@ __평균값으로 잡음제거__
 <br>
 <br>
 
-### 이동평균 재귀적으로 구하기(testmov)
+### 이동평균 재귀적으로 구하기
 #### $$\bar x_{k}-\bar x_{k-1} = \frac{x_{k}-x_{k-n}}{n}$$
 #### $$\bar x_{k}=\bar x_{k-1} + \frac{x_{k}-x_{k-n}}{n}$$
 ![image](https://user-images.githubusercontent.com/107944370/228790194-42ffad3b-3ad7-493d-8e3f-0032f59c2625.png)
