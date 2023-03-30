@@ -6,3 +6,4 @@
 ## $$\bar x_{k-1} =  \frac{x_{1}+ x_{2}+ \cdots + x_{k-1}}{k-1}$$
 ## $$\bar x_{k} = \frac{x_{1}+ x_{2}+ \cdots + x_{k}}{k}$$
 ## $$\frac {k}{k-1} \bar x_{k} = \frac {x_{1}+ x_{2}+ \cdots + x_{k}}{k-1}$$
+## $$\frac {k}{k-1} \bar x_{k} = \frac {x_{1}+ x_{2}+ \cdots + x_{k-1}}{k-1} + \frac {x_{k}}{k-1}$$
