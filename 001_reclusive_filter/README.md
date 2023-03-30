@@ -42,4 +42,4 @@
 
 ### 재귀적으로 구하기
 #### $$\bar x_{k}-\bar x_{k-1} = \frac{x_{k}-x_{k-n}}{n}$$
-#### $$\bar x_{k}=\bar x_{k-1} + \frac{x_{k}+x_{k-n}}{n}$$
+#### $$\bar x_{k}=\bar x_{k-1} + \frac{x_{k}-x_{k-n}}{n}$$
