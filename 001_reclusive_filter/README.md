@@ -5,4 +5,4 @@
 # 재귀적으로 평균 구하기
 ## $$\bar x_{k-1} =  x_{1}+ x_{2}+ \cdots + x_{k-1} \over k-1$$
 ## $$\bar x_{k} = x_{1}+ x_{2}+ \cdots + x_{k} \over k$$
-## $$k\over k-1 \bar x_{k}$$
+## $$k \bar x_{k}\over k-1$$
