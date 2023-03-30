@@ -51,3 +51,6 @@ __평균값으로 잡음제거__
 ![image](https://user-images.githubusercontent.com/107944370/228790194-42ffad3b-3ad7-493d-8e3f-0032f59c2625.png)
 <br>
 __동적인 특성 그대로 유지__
+
+## 이동평균의 한계
+## $$\bar x_{k} = \frac{x_{k-n+1}+ x_{2}+ \cdots + x_{k}}{n} = \frac {1}{n}{x_{k-n+1}+\frac {1}{n}{x_{k-n+2}+\cdots+\frac {1}{n}{x_{k}$$ 
