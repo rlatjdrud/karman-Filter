@@ -44,8 +44,12 @@ __평균값으로 잡음제거__
 >
 >최근 측정된 값이 더해지고 가장 오래된 값을 버려서 최신의 이동평균값 $$\bar x_{k}$$
 >을 구함
+>
+<br>
+<br>
+<br>
 
-### 재귀적으로 구하기
+### 이동평균재귀적으로 구하기
 #### $$\bar x_{k}-\bar x_{k-1} = \frac{x_{k}-x_{k-n}}{n}$$
 #### $$\bar x_{k}=\bar x_{k-1} + \frac{x_{k}-x_{k-n}}{n}$$
 ![image](https://user-images.githubusercontent.com/107944370/228790194-42ffad3b-3ad7-493d-8e3f-0032f59c2625.png)
