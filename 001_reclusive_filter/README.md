@@ -45,3 +45,5 @@
 ### 재귀적으로 구하기
 #### $$\bar x_{k}-\bar x_{k-1} = \frac{x_{k}-x_{k-n}}{n}$$
 #### $$\bar x_{k}=\bar x_{k-1} + \frac{x_{k}-x_{k-n}}{n}$$
+![image](https://user-images.githubusercontent.com/107944370/228788509-44c1b798-44a3-4e66-b8a2-a818657b11a2.png)
+
