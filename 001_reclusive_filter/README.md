@@ -9,4 +9,4 @@
 ## $$\frac {k}{k-1} \bar x_{k} = \frac {x_{1}+ x_{2}+ \cdots + x_{k-1}}{k-1} + \frac {x_{k}}{k-1}$$
 ## $$\frac {k}{k-1} \bar x_{k} = \bar x_{k-1}+\frac {\bar x_{k}}{k-1}$$
 ## $$\frac{k-1}{k} \times \frac {k}{k-1} \bar x_{k} = \frac{k-1}{k} \times \bar x_{k-1}+ \frac{k-1}{k} \times \frac {\bar x_{k}}{k-1}$$
-## $$\bar x_{k} = \frac{k-1}{k} \bar_x{k-1} + \frac{1}{k} \bar_x{k}$$
+## $$\bar x_{k} = \frac{k-1}{k} \bar_x{k-1} + \frac{1}{k} \bar x_{k}$$
