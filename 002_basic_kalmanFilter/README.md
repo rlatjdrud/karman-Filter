@@ -6,6 +6,6 @@
 <br>
 <br>
 ## 변하는 가중치
-![image](https://user-images.githubusercontent.com/107944370/229039409-2f62a3d4-70af-4705-a0a3-bc39e43c5d5c.png)
+![image](https://user-images.githubusercontent.com/107944370/229039615-f236587a-5abc-40de-b0c6-ab00c8a4c1eb.png)
 
   
