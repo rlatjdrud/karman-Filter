@@ -44,3 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/107944370/229399497-7406469b-d1f0-4734-9dda-b44abc3c3f09.png)
 [칼만필터를 이용해 잡음을 제거한 결과]
+![image](https://user-images.githubusercontent.com/107944370/229418937-34b7669b-fb2c-4644-9344-6d3bda8ef5db.png)
+![image](https://user-images.githubusercontent.com/107944370/229418967-cfa7af8a-d26c-49f1-b5f2-0e16cc1152a0.png)
+
+***오차공분산이 먼저 변화되고, 변화된 오차공분산이 칼만이득을 변화시키는 순서로 흐름***
