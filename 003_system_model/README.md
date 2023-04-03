@@ -9,5 +9,5 @@
 <br>
 <br>
 <br>
-# 잡음의 공분산 
+# <span style="color:blue">잡음의 공분산</span> 
 ![image](https://user-images.githubusercontent.com/107944370/229394521-d0e12a4f-c5ab-4c78-b124-f30c05c28247.png)
