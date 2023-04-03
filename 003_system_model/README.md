@@ -17,3 +17,15 @@
 <br>
 # 잡음의 공분산
 ![image](https://user-images.githubusercontent.com/107944370/229394521-d0e12a4f-c5ab-4c78-b124-f30c05c28247.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+# 행렬 Q와 R가 측정값에 미치는 영향
+![image](https://user-images.githubusercontent.com/107944370/229396212-04688077-a975-4f54-b88e-ec96d11b1c7b.png)
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229396231-95a44847-509b-4615-a159-7e95f59d7328.png)
