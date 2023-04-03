@@ -37,8 +37,9 @@
 <br>
 # 초간단 칼만필터 예제
 - 손칼만 연구원이 새로 들어온 배터리의 전압을 측정하는데, 잡음이 심해서 잴 때마다 전압값이 달랐다. 그래서 칼만필터로 잡음을 제거해보기로한다.
-![image](https://user-images.githubusercontent.com/107944370/229399478-372c3f45-76bb-451f-be80-363b34ce2fb8.png)
+![image](https://user-images.githubusercontent.com/107944370/229399856-e8bb5c71-664a-4c99-b56b-b1fe3fb1e81c.png)
 <br>
 <br>
 <br>
+
 ![image](https://user-images.githubusercontent.com/107944370/229399497-7406469b-d1f0-4734-9dda-b44abc3c3f09.png)
