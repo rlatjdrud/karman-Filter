@@ -44,3 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/107944370/229399497-7406469b-d1f0-4734-9dda-b44abc3c3f09.png)
 [칼만필터를 이용해 잡음을 제거한 결과]
+![image](https://user-images.githubusercontent.com/107944370/229417358-5aa48e0d-f8bd-4147-b00a-e06869a5e293.png)
+[시간에 따른 칼만이득]
+![image](https://user-images.githubusercontent.com/107944370/229417406-2f39b461-81c5-4d5e-8a43-d0f5bee4a28e.png)
+[시간에 따른 오차공분산]
