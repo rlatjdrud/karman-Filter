@@ -1,7 +1,7 @@
 # 위치로 속도 추정하기
 > 손칼만 연구원은 요즘 신형 열차의 성능 시험으로 바쁘다. 시험 내용은 직선 선로에서 열차가 80[m/s]의 속도를 유지하는지 확인 하는 것이다. 위치와 속도는 0.1초   간격으로 측정해서 저장하도록 한다. 하지만 속도 데이터가 모두 0으로 찍혔다. 이 위기를 어떻게 대처할까?
 
-![image](https://user-images.githubusercontent.com/107944370/229677181-4cfb21ac-1d3d-4c91-bf00-6517dfd1c28b.png)
+![image](https://user-images.githubusercontent.com/107944370/229677211-8546740d-1ed0-4d9a-a16b-7f1016fa4820.png)
 <br>
 <br>
 <br>
