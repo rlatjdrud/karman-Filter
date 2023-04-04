@@ -28,7 +28,6 @@
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/107944370/229674169-9e4cb753-3dde-40a5-9b1d-30a997af9486.png)
-> 만약 상태변수가 많아져 시스템 모델의 행렬이 커지면 사용하기 어려움
 <br>
 <br>
 <br>
@@ -66,5 +65,5 @@
 # 칼만이득 계산 경량화 하기
 ![image](https://user-images.githubusercontent.com/107944370/229676599-373576fa-1514-4927-80ad-eaf5ed8cdf8f.png)
 ![image](https://user-images.githubusercontent.com/107944370/229676612-60af38db-2009-44fe-9cd4-8982ce7f5cb2.png)
-
+> __만약 상태변수가 많아지면 시스템 모델의 행렬이 커져서 경량화를 사용하기 어려움__
 
