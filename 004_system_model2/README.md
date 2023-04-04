@@ -28,6 +28,7 @@
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/107944370/229674169-9e4cb753-3dde-40a5-9b1d-30a997af9486.png)
+> 만약 상태변수가 많아져 시스템 모델의 행렬이 커지면 사용하기 어려움
 <br>
 <br>
 <br>
