@@ -17,3 +17,43 @@
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/107944370/229661472-63814460-3b07-4113-b8d0-18e8412701e6.png)
+<br>
+<br>
+<br>
+<br>
+# 속도로 위치 추정하기
+![image](https://user-images.githubusercontent.com/107944370/229674140-3d06aae0-9362-4214-b2ea-f91ae8fc4a72.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229674169-9e4cb753-3dde-40a5-9b1d-30a997af9486.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229674214-58e46fb7-41af-45bc-8fe3-1f8d57d7b9fb.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229674233-9e43cfcd-1d37-4179-9139-44b400f1d6a9.png)
+<br>
+<br>
+<br>
+<br>
+# 초음파 거리계로 속도 추정하기
+![image](https://user-images.githubusercontent.com/107944370/229674336-9cc0d400-609c-4900-8b3d-bf2644f2bea9.png)
+> 거리로 속도를 추정하므로 앞 전에 위치로 속도 추정하기와 똑같은 시스템 모델을 이용
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229674394-3159e1c4-47e1-463f-8464-9267a07ff9d6.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229674410-755403f3-26e9-417c-9731-c8f50976f93b.png)
+
+
