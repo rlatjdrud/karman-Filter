@@ -57,5 +57,17 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/107944370/229674410-755403f3-26e9-417c-9731-c8f50976f93b.png)
+<br>
+<br>
+<br>
+<br>
+
+# 칼만이득 계산 경량화 하기
+![image](https://user-images.githubusercontent.com/107944370/229676599-373576fa-1514-4927-80ad-eaf5ed8cdf8f.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/107944370/229676612-60af38db-2009-44fe-9cd4-8982ce7f5cb2.png)
 
 
