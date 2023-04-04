@@ -62,8 +62,15 @@
 <br>
 <br>
 
+
 # 칼만이득 계산 경량화 하기
 ![image](https://user-images.githubusercontent.com/107944370/229676599-373576fa-1514-4927-80ad-eaf5ed8cdf8f.png)
 ![image](https://user-images.githubusercontent.com/107944370/229676612-60af38db-2009-44fe-9cd4-8982ce7f5cb2.png)
 > __만약 상태변수가 많아지면 시스템 모델의 행렬이 커져서 경량화를 사용하기 어려움__
+
+# 시스템 모델의 힘
+## 어떻게 칼만필터는 위치의 측정값만 추정했는데 속도까지 알 수 있을까?
+>
+> __속도와 거리의 물리적인 관계를 시스템 모델에 심어놓았기 때문이다__
+>
 
