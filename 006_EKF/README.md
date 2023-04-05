@@ -7,3 +7,5 @@
 ![image](https://user-images.githubusercontent.com/107944370/229967119-23c71ab9-ab3a-46a7-8320-984c440622aa.png)
 ![image](https://user-images.githubusercontent.com/107944370/229967358-77e8dccb-bd71-4340-be06-1486cc8b5915.png)
 ![image](https://user-images.githubusercontent.com/107944370/229970407-58f934fc-ec1e-454a-9115-02d781dc46f5.png)
+# EKF 알고리즘 과 선형화 칼만필터의 차이점
+![image](https://user-images.githubusercontent.com/107944370/229973873-7765d50e-1815-48c0-b4f5-9e8cf6888652.png)
