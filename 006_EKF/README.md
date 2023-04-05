@@ -18,3 +18,11 @@
 
 # 시스템 행렬 A 와 H 구하기
 ![image](https://user-images.githubusercontent.com/107944370/229977246-9e583afb-8ffe-46ba-bfda-6a64bfbbc7ad.png)
+
+# 레이더로 측정한 직선거라와 칼만필터로 잡음을 제거한 직선거리 
+![image](https://user-images.githubusercontent.com/107944370/229990478-fdcd5cfc-2dfe-4c88-bcbe-d0199e115caa.png)
+
+# 칼만필터가 직선거리를 이용해 추정한 고도
+![image](https://user-images.githubusercontent.com/107944370/229990597-31ffb4af-a3a9-4a49-b977-dfd42622e166.png)
+# 칼만필터가 직선거리를 이용해 추정한 이동속도
+![image](https://user-images.githubusercontent.com/107944370/229990718-f6f13185-77df-4174-b72b-3d0ec0930b07.png)
