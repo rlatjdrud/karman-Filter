@@ -11,3 +11,4 @@
 ![image](https://user-images.githubusercontent.com/107944370/229974220-10d28e1c-56a9-4998-b0c5-a72fcba932da.png)
 # 상태방정식
 ![image](https://user-images.githubusercontent.com/107944370/229975705-8ddfa929-5cfe-4f95-89ae-e9ca248d1197.png)
+![image](https://user-images.githubusercontent.com/107944370/229976048-bc45b6a6-3d09-4e06-a60a-382a59da2b76.png)
