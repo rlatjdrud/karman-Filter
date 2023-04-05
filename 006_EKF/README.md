@@ -9,6 +9,9 @@
 ![image](https://user-images.githubusercontent.com/107944370/229970407-58f934fc-ec1e-454a-9115-02d781dc46f5.png)
 # EKF 알고리즘 과 선형화 칼만필터의 차이점
 ![image](https://user-images.githubusercontent.com/107944370/229974220-10d28e1c-56a9-4998-b0c5-a72fcba932da.png)
+# 레이더 추적
+![image](https://user-images.githubusercontent.com/107944370/229976100-954ec8f8-6442-47e5-92d6-3469a436c883.png)
+
 # 상태방정식
 ![image](https://user-images.githubusercontent.com/107944370/229975705-8ddfa929-5cfe-4f95-89ae-e9ca248d1197.png)
 ![image](https://user-images.githubusercontent.com/107944370/229976048-bc45b6a6-3d09-4e06-a60a-382a59da2b76.png)
