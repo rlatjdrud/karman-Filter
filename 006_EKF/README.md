@@ -4,4 +4,4 @@
 
 # EKF 알고리즘
 - 칼만필터를 비선형 시스템까지 확장한 대표적인 알고리즘
-![image](https://user-images.githubusercontent.com/107944370/229966783-5effc982-ef1d-449b-909f-ce3615931f56.png)
+![image](https://user-images.githubusercontent.com/107944370/229967119-23c71ab9-ab3a-46a7-8320-984c440622aa.png)
