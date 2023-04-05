@@ -15,3 +15,6 @@
 # 상태방정식
 ![image](https://user-images.githubusercontent.com/107944370/229975705-8ddfa929-5cfe-4f95-89ae-e9ca248d1197.png)
 ![image](https://user-images.githubusercontent.com/107944370/229976048-bc45b6a6-3d09-4e06-a60a-382a59da2b76.png)
+
+# 시스템 행렬 A 와 H 구하기
+![image](https://user-images.githubusercontent.com/107944370/229977246-9e583afb-8ffe-46ba-bfda-6a64bfbbc7ad.png)
